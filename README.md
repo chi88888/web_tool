@@ -7,7 +7,7 @@
 
 ## 在线预览
 
-[https://chi88888.github.io/web_tool/]
+https://chi88888.github.io/web_tool/
 
 
 ## 二次开发
